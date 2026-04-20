@@ -1,28 +1,26 @@
-## Objectif
+## Objective
 
-Ce projet consiste à créer une application web permettant d’afficher et manipuler des données liées aux Oscars de poneys (films, catégories, résultats, etc.) en JavaScript.
-
----
-
-## Contexte
-
-Ce projet a été réalisé dans le cadre de ma formation afin de pratiquer JavaScript, notamment la manipulation de données et l’affichage dynamique dans le navigateur.
-L’objectif était de créer une interface interactive permettant d’explorer des informations sur les films.
+This project consists of creating a web application allowing the display and manipulation of data related to pony Oscars (films, categories, results, etc.) using JavaScript.
 
 ---
 
-## Fonctionnalités
+## Context
 
-* Affichage dynamique de données (films, Oscars, etc.)
-* Manipulation du DOM
-* Interaction utilisateur (clic, filtres, sélection)
-* Mise à jour du contenu en temps réel
-
-*(à adapter selon ton projet exact 👈)*
+This project was carried out as part of my training in order to practice JavaScript, particularly data manipulation and dynamic display in the browser.  
+The objective was to create an interactive interface allowing users to explore information about films.
 
 ---
 
-## Technologies utilisées
+## Features
+
+* Dynamic display of data (films, Oscars, etc.)
+* DOM manipulation
+* User interaction (click, filters, selection)
+* Real-time content updates
+
+---
+
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -30,34 +28,34 @@ L’objectif était de créer une interface interactive permettant d’explorer 
 
 ---
 
-## Compétences développées
+## Skills Developed
 
-* Manipulation du DOM
-* Gestion d’événements JavaScript
-* Travail avec des données (tableaux, objets)
-* Logique applicative côté front-end
-
----
-
-## Ce que j’ai appris
-
-* Rendre une page web dynamique avec JavaScript
-* Structurer du code JavaScript
-* Manipuler et afficher des données
-* Améliorer l’interactivité utilisateur
+* DOM manipulation
+* JavaScript event handling
+* Working with data (arrays, objects)
+* Front-end application logic
 
 ---
 
-## Améliorations possibles
+## What I Learned
 
-* Ajouter un système de recherche ou filtre
-* Améliorer l’interface utilisateur
-* Ajouter une API externe (films / cinéma)
-* Transformer le projet en application plus complète
+* Making a web page dynamic with JavaScript
+* Structuring JavaScript code
+* Manipulating and displaying data
+* Improving user interactivity
 
 ---
 
-## Auteur
+## Possible Improvements
 
-Annabelle
-GitHub : https://github.com/Annabelle-m
+* Add a search or filtering system
+* Improve the user interface
+* Add an external API (films / cinema)
+* Turn the project into a more complete application
+
+---
+
+## Author
+
+Annabelle  
+GitHub: https://github.com/Annabelle-m
